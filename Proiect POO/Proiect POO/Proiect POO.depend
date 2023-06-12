@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1686403936 source:c:\users\doina\onedrive\desktop\proiect poo\proiect poo\main.cpp
+	<iostream>
+	<cmath>
+	"Piesa.h"
+	"TablaDeJoc.h"
+	"Pion.h"
+	"Rege.h"
+	"Regina.h"
+	"Tura.h"
+	"Nebun.h"
+	"Cal.h"
+
+1685956145 c:\users\doina\onedrive\desktop\proiect poo\proiect poo\include\piesa.h
+	<iostream>
+	<cmath>
+
+1686559730 c:\users\doina\onedrive\desktop\proiect poo\proiect poo\include\tabladejoc.h
+	<iostream>
+	<cmath>
+	"Piesa.h"
+
+1686403647 c:\users\doina\onedrive\desktop\proiect poo\proiect poo\include\pion.h
+	<iostream>
+	<cmath>
+	"TablaDeJoc.h"
+	"Piesa.h"
+
+1685956145 c:\users\doina\onedrive\desktop\proiect poo\proiect poo\include\rege.h
+	<iostream>
+	<cmath>
+	"Piesa.h"
+	"TablaDeJoc.h"
+
+1685956145 c:\users\doina\onedrive\desktop\proiect poo\proiect poo\include\regina.h
+	<iostream>
+	<cmath>
+	"TablaDeJoc.h"
+	"Piesa.h"
+
+1686559730 c:\users\doina\onedrive\desktop\proiect poo\proiect poo\include\tura.h
+	<iostream>
+	<cmath>
+	"Piesa.h"
+	"TablaDeJoc.h"
+
+1686559730 c:\users\doina\onedrive\desktop\proiect poo\proiect poo\include\nebun.h
+	<iostream>
+	<cmath>
+	"Piesa.h"
+
+1686559730 c:\users\doina\onedrive\desktop\proiect poo\proiect poo\include\cal.h
+	<iostream>
+	<cmath>
+	"Piesa.h"
+	"TablaDeJoc.h"
+
+1684659084 source:c:\users\doina\onedrive\desktop\proiect poo\proiect poo\src\cal.cpp
+
+1684659073 source:c:\users\doina\onedrive\desktop\proiect poo\proiect poo\src\nebun.cpp
+
+1685956145 source:c:\users\doina\onedrive\desktop\proiect poo\proiect poo\src\piesa.cpp
+
+1684659022 source:c:\users\doina\onedrive\desktop\proiect poo\proiect poo\src\pion.cpp
+
+1684659141 source:c:\users\doina\onedrive\desktop\proiect poo\proiect poo\src\rege.cpp
+
+1684659046 source:c:\users\doina\onedrive\desktop\proiect poo\proiect poo\src\regina.cpp
+
+1684659098 source:c:\users\doina\onedrive\desktop\proiect poo\proiect poo\src\tabladejoc.cpp
+
+1684659059 source:c:\users\doina\onedrive\desktop\proiect poo\proiect poo\src\tura.cpp
+
